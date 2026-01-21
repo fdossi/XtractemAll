@@ -1,4 +1,4 @@
-# 📦 XtractemAll: Extrator Recursivo para Google Drive
+# 📦 XtractemAll: XtractemAll: Extrator Recursivo de Dados em Nuvem
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fdossi/XtractemAll/blob/main/XtractemAll.ipynb)
 
